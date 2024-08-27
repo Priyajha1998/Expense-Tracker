@@ -3,7 +3,7 @@
 This is a simple web-based expense tracker application that allows users to add transactions (income/expense), view their transaction history, and track their balance in real-time. The project is built using vanilla JavaScript, HTML, and CSS, and stores transactions locally in the browser using localStorage.
 
 ## Demo
-![Screenshot of the Simple Expense Tracker](images/ss3.JPEG)
+![Screenshot of the Simple Expense Tracker](images/ss3.jpeg)
 
 ## Features
 - *Add Transactions*: Users can add transactions by entering a description (text) and an amount. Positive values represent income, while negative values represent expenses.
@@ -19,7 +19,7 @@ This is a simple web-based expense tracker application that allows users to add 
 ## Screenshots
 
 ### Transaction History
-![Transaction History](images/ss4.JPEG)
+![Transaction History](images/ss4.jpeg)
 
 ## How It Works
 1. The user inputs the transaction details (text and amount) in the form.
